@@ -1,17 +1,16 @@
 package io.github.lieonlion.lolmbv.block;
 
-import net.minecraft.block.AbstractBlock;
-import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
-import net.minecraft.block.MapColor;
-import net.minecraft.sound.BlockSoundGroup;
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.SoundType;
+import net.minecraft.world.level.material.MapColor;
 
 public class MoreBookshelfBlock extends Block {
     public MoreBookshelfBlock(MapColor colour) {
-        super(AbstractBlock.Settings.copy(Blocks.BOOKSHELF).mapColor(colour));
+        super(Properties.ofFullCopy(Blocks.BOOKSHELF).mapColor(colour));
     }
 
-    public MoreBookshelfBlock(MapColor colour, BlockSoundGroup sound) {
-        super(AbstractBlock.Settings.copy(Blocks.BOOKSHELF).mapColor(colour).sounds(sound));
+    public MoreBookshelfBlock(MapColor colour, SoundType sound) {
+        super(Properties.ofFullCopy(Blocks.BOOKSHELF).mapColor(colour).sound(sound));
     }
 }
