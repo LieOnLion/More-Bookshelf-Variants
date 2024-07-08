@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bookshelf",
+  "key": {
+    "b": {
+      "item": "minecraft:book"
+    },
+    "#": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "bbb",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lolmbv:jungle_bookshelf"
+  }
+}
