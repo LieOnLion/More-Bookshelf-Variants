@@ -1,4 +1,4 @@
-package io.github.lieonlion.lolmbv.bock;
+package io.github.lieonlion.lolmbv.block;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;

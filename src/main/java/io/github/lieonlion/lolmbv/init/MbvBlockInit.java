@@ -1,7 +1,7 @@
 package io.github.lieonlion.lolmbv.init;
 
 import io.github.lieonlion.lolmbv.MoreBookshelfVariants;
-import io.github.lieonlion.lolmbv.bock.MoreBookshelfBlock;
+import io.github.lieonlion.lolmbv.block.MoreBookshelfBlock;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.material.MapColor;
