@@ -1,0 +1,74 @@
+{
+  "values": [
+    {
+      "structures": "#quad:is/spruce",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:spruce_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/birch",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:birch_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/jungle",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:jungle_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/acacia",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:acacia_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/dark_oak",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:dark_oak_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/mangrove",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:mangrove_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/cherry",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:cherry_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/bamboo",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:bamboo_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/crimson",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:crimson_bookshelf"
+      }
+    },
+    {
+      "structures": "#quad:is/warped",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:warped_bookshelf"
+      }
+    }
+  ]
+}
