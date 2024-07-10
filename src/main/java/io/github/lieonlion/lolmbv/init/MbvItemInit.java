@@ -44,6 +44,6 @@ public class MbvItemInit {
         registerToTab(event, CRIMSON_BOOKSHELF_I.get(), BAMBOO_BOOKSHELF_I.get());
         registerToTab(event, WARPED_BOOKSHELF_I.get(), CRIMSON_BOOKSHELF_I.get());
     } public static void registerToTab(BuildCreativeModeTabContentsEvent event, Item item, Item after) {
-        event.getEntries().putAfter(new ItemStack(after), new ItemStack(item), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
+        event.insertAfter(new ItemStack(after), new ItemStack(item), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
     }
 }
