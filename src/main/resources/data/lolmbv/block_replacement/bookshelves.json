@@ -50,6 +50,13 @@
       }
     },
     {
+      "structures": "#quad:is/pale_oak",
+      "block_replacement": {
+        "targets": "minecraft:bookshelf",
+        "replacement": "lolmbv:pale_oak_bookshelf"
+      }
+    },
+    {
       "structures": "#quad:is/bamboo",
       "block_replacement": {
         "targets": "minecraft:bookshelf",

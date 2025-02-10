@@ -1,9 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "tag": "lolmbv:more_bookshelf"
-    }
+    "#lieonstudio:bookshelves"
   ],
   "result": {
     "count": 1,

@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "group": "bookshelf",
   "key": {
-    "b": {
-      "item": "minecraft:book"
-    },
-    "#": {
-      "item": "minecraft:acacia_planks"
-    }
+    "b": "minecraft:book",
+    "#": "minecraft:acacia_planks"
   },
   "pattern": [
     "###",

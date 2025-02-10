@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/pale_oak_planks",
+    "side": "lolmbv:block/pale_oak_bookshelf"
+  }
+}

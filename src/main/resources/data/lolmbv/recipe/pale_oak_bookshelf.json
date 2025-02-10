@@ -3,7 +3,7 @@
   "group": "bookshelf",
   "key": {
     "b": "minecraft:book",
-    "#": "minecraft:cherry_planks"
+    "#": "minecraft:pale_oak_planks"
   },
   "pattern": [
     "###",
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "lolmbv:cherry_bookshelf"
+    "id": "lolmbv:pale_oak_bookshelf"
   }
 }
